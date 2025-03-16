@@ -1,0 +1,7 @@
+pymongo
+telebot 
+pillow 
+rembg 
+numpy 
+onnxruntime
+flask
