@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/(.*)", "dest": "bg.py" }
+  ],
+  "builds": [
+    { "src": "bg.py", "use": "@vercel/python" }
+  ]
+}
